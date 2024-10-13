@@ -1,0 +1,17 @@
+.hero_section{
+    padding: 5rem;
+    text-align: center;
+    background-color: rgb(203, 221, 219);
+    color: rgb(185, 26, 185);;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+.btn{
+    padding-top:2rem ;
+    font-size: 13px;
+    color: black;
+}
+.btn:hover{
+    color: purple; 
+}
