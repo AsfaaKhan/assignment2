@@ -1,5 +1,6 @@
 import cssStyle from "./Section.module.css"
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const Section =(props: any)=>{
 return(
 
