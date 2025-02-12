@@ -6,6 +6,7 @@
     font-size: 50px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-transform: uppercase;
+    height: 100%;
 }
 .btn{
     padding-top:2rem ;

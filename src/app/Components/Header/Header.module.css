@@ -1,5 +1,6 @@
 
 .navbar{
+
     list-style-type: none;
     text-decoration: none;
     text-align: center;
@@ -14,8 +15,4 @@
 .nav_item:hover{
     color:purple;
     text-transform: capitalize ;
-}
-.nav_item:active{
-    color: rgb(238, 255, 0);
-
 }
