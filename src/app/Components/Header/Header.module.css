@@ -5,13 +5,11 @@
     text-align: center;
     padding: 2rem;
     background-color: gray;
-
 }
 .nav_item{
-    display: inline;
-    padding: 3rem;
     color: white;
-
+    display: inline;
+    padding: 2rem;
 }
 .nav_item:hover{
     color:purple;
